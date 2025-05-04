@@ -1,0 +1,413 @@
+2025-05-04 00:12:50,334 - INFO - ====== WebDriver manager ======
+2025-05-04 00:12:51,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 00:12:51,237 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 00:12:51,391 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 00:12:58,974 - INFO - Logging into WordPress
+2025-05-04 00:13:07,278 - INFO - Screenshot saved: screenshots/20250504_001307_login_success.png
+2025-05-04 00:13:07,279 - INFO - Checking if Everest Forms is already activated
+2025-05-04 00:13:26,351 - INFO - Navigating to Add Plugins page
+2025-05-04 00:13:30,421 - INFO - Screenshot saved: screenshots/20250504_001330_add_plugins_page.png
+2025-05-04 00:13:30,421 - INFO - Searching for Everest Forms
+2025-05-04 00:13:35,672 - INFO - Screenshot saved: screenshots/20250504_001335_search_results.png
+2025-05-04 00:13:36,257 - INFO - Clicked Install Now
+2025-05-04 00:14:03,440 - WARNING - Could not determine WordPress version
+2025-05-04 00:14:03,440 - INFO - Navigating to Everest Forms admin page
+2025-05-04 00:14:09,760 - INFO - Screenshot saved: screenshots/20250504_001409_everest_forms_page.png
+2025-05-04 00:14:09,769 - ERROR - Error detected: Cannot load everest-forms
+2025-05-04 00:14:09,875 - INFO - Screenshot saved: screenshots/20250504_001409_everest_forms_error.png
+2025-05-04 00:14:09,875 - INFO - Starting troubleshooting steps...
+2025-05-04 00:14:15,403 - INFO - Screenshot saved: screenshots/20250504_001415_plugins_page.png
+2025-05-04 00:14:15,403 - INFO - Attempting to deactivate and reactivate Everest Forms
+2025-05-04 00:14:21,734 - INFO - Screenshot saved: screenshots/20250504_001421_everest_forms_after_reactivation.png
+2025-05-04 00:14:21,759 - ERROR - Error persists after reactivation
+2025-05-04 00:14:21,760 - INFO - Trying alternative approach: Create page with contact form shortcode
+2025-05-04 00:14:30,167 - ERROR - Could not find title input field
+2025-05-04 00:14:30,233 - ERROR - Could not add shortcode
+2025-05-04 00:14:30,370 - INFO - Screenshot saved: screenshots/20250504_001430_contact_form_page.png
+2025-05-04 00:14:31,480 - ERROR - Could not publish page
+2025-05-04 00:14:34,650 - INFO - Screenshot saved: screenshots/20250504_001434_page_published.png
+2025-05-04 00:14:34,650 - INFO - Created page with contact form shortcode as alternative verification
+2025-05-04 00:19:48,028 - INFO - ====== WebDriver manager ======
+2025-05-04 00:19:48,707 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 00:19:48,863 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 00:19:49,042 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 00:19:58,038 - INFO - Logging into WordPress
+2025-05-04 00:20:07,817 - INFO - Screenshot saved: screenshots/20250504_002007_login_success.png
+2025-05-04 00:20:07,818 - INFO - Checking if Everest Forms is already activated
+2025-05-04 00:20:27,458 - WARNING - Could not determine WordPress version
+2025-05-04 00:20:27,458 - INFO - Navigating to Everest Forms admin page
+2025-05-04 00:20:33,773 - INFO - Screenshot saved: screenshots/20250504_002033_everest_forms_page.png
+2025-05-04 00:20:33,783 - ERROR - Error detected: Cannot load everest-forms
+2025-05-04 00:20:33,893 - INFO - Screenshot saved: screenshots/20250504_002033_everest_forms_error.png
+2025-05-04 00:20:33,893 - INFO - Starting troubleshooting steps...
+2025-05-04 00:20:39,361 - INFO - Screenshot saved: screenshots/20250504_002039_plugins_page.png
+2025-05-04 00:20:39,361 - INFO - Attempting to deactivate and reactivate Everest Forms
+2025-05-04 00:20:45,726 - INFO - Screenshot saved: screenshots/20250504_002045_everest_forms_after_reactivation.png
+2025-05-04 00:20:45,733 - ERROR - Error persists after reactivation
+2025-05-04 00:20:45,733 - INFO - Trying alternative approach: Create page with contact form shortcode
+2025-05-04 00:20:52,880 - ERROR - Could not find title input field
+2025-05-04 00:20:52,908 - ERROR - Could not add shortcode
+2025-05-04 00:20:53,034 - INFO - Screenshot saved: screenshots/20250504_002052_contact_form_page.png
+2025-05-04 00:20:54,107 - ERROR - Could not publish page
+2025-05-04 00:20:57,252 - INFO - Screenshot saved: screenshots/20250504_002057_page_published.png
+2025-05-04 00:20:57,253 - INFO - Created page with contact form shortcode as alternative verification
+2025-05-04 20:22:52,249 - INFO - ====== WebDriver manager ======
+2025-05-04 20:22:53,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:22:53,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:22:53,389 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:22:54,558 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:22:56,992 - INFO - Screenshot saved: screenshots/20250504_202256_fatal_error.png
+2025-05-04 20:23:35,098 - INFO - ====== WebDriver manager ======
+2025-05-04 20:23:35,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:23:36,349 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:23:36,715 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:23:37,878 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:23:57,190 - INFO - Screenshot saved: screenshots/20250504_202357_login_page.png
+2025-05-04 20:23:57,192 - INFO - STEP 1.1: Input login credentials
+2025-05-04 20:24:10,942 - INFO - Screenshot saved: screenshots/20250504_202410_login_success.png
+2025-05-04 20:25:10,082 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 20:25:13,669 - INFO - Screenshot saved: screenshots/20250504_202513_plugins_page.png
+2025-05-04 20:25:13,671 - INFO - Everest Forms is already activated. Deactivating first to demonstrate full workflow.
+2025-05-04 20:25:13,690 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 20:25:20,784 - INFO - Screenshot saved: screenshots/20250504_202520_add_plugins_page.png
+2025-05-04 20:25:20,787 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 20:25:26,287 - INFO - Screenshot saved: screenshots/20250504_202526_search_results.png
+2025-05-04 20:25:27,860 - INFO - STEP 5: Install Everest Forms
+2025-05-04 20:25:27,910 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 20:25:33,390 - INFO - Verifying activation
+2025-05-04 20:25:44,922 - INFO - STEP 7: Verify the 'Welcome to Everest Forms' message
+2025-05-04 20:26:36,957 - INFO - Screenshot saved: screenshots/20250504_202636_missing_welcome_message.png
+2025-05-04 20:26:36,959 - INFO - Trying to access Everest Forms directly
+2025-05-04 20:27:35,233 - INFO - Screenshot saved: screenshots/20250504_202734_missing_welcome_message.png
+2025-05-04 20:27:35,233 - INFO - Trying first-time access URL
+2025-05-04 20:28:33,699 - INFO - Screenshot saved: screenshots/20250504_202833_missing_welcome_message.png
+2025-05-04 20:29:32,002 - INFO - Screenshot saved: screenshots/20250504_202931_missing_welcome_message.png
+2025-05-04 20:30:29,954 - INFO - Screenshot saved: screenshots/20250504_203029_missing_welcome_message.png
+2025-05-04 20:31:28,196 - INFO - Screenshot saved: screenshots/20250504_203127_missing_welcome_message.png
+2025-05-04 20:31:34,656 - INFO - Screenshot saved: screenshots/20250504_203134_final_state_no_welcome.png
+2025-05-04 20:31:34,666 - INFO - Current URL: http://wordpress-automation.local/wp-admin/admin.php?page=everest-forms-about
+2025-05-04 20:31:34,672 - INFO - Current page title: WordPress › Error
+2025-05-04 20:31:34,817 - INFO - Screenshot saved: screenshots/20250504_203134_fatal_error.png
+2025-05-04 20:34:35,352 - INFO - ====== WebDriver manager ======
+2025-05-04 20:34:36,169 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:34:36,441 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:34:36,684 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:34:37,782 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:34:44,331 - INFO - Screenshot saved: screenshots/20250504_203444_login_page.png
+2025-05-04 20:34:44,334 - INFO - STEP 1.1: Input login credentials
+2025-05-04 20:34:52,746 - INFO - Screenshot saved: screenshots/20250504_203452_login_success.png
+2025-05-04 20:35:12,883 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 20:35:15,743 - INFO - Screenshot saved: screenshots/20250504_203515_plugins_page.png
+2025-05-04 20:35:15,746 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 20:35:20,180 - INFO - Screenshot saved: screenshots/20250504_203519_add_plugins_page.png
+2025-05-04 20:35:20,184 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 20:35:25,649 - INFO - Screenshot saved: screenshots/20250504_203525_search_results.png
+2025-05-04 20:35:26,745 - INFO - STEP 5: Install Everest Forms
+2025-05-04 20:35:26,906 - INFO - Clicked Install Now
+2025-05-04 20:35:46,015 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 20:35:54,044 - INFO - Clicked Activate
+2025-05-04 20:35:59,045 - INFO - Verifying activation
+2025-05-04 20:36:10,215 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 20:36:16,582 - INFO - Screenshot saved: screenshots/20250504_203616_everest_forms_page.png
+2025-05-04 20:36:16,584 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 20:36:17,730 - INFO - Screenshot saved: screenshots/20250504_203617_custom_welcome_message.png
+2025-05-04 20:43:24,646 - INFO - ====== WebDriver manager ======
+2025-05-04 20:43:25,547 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:43:25,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:43:25,833 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:43:26,903 - INFO - Starting WordPress automation test...
+2025-05-04 20:43:26,903 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:43:33,495 - INFO - Screenshot saved: screenshots/20250504_204333_login_page.png
+2025-05-04 20:43:33,495 - INFO - Successfully navigated to WordPress login page
+2025-05-04 20:43:33,495 - INFO - STEP 1.1: Input login credentials
+2025-05-04 20:43:41,913 - INFO - Screenshot saved: screenshots/20250504_204341_login_success.png
+2025-05-04 20:43:41,913 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 20:44:01,248 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 20:44:04,104 - INFO - Screenshot saved: screenshots/20250504_204403_plugins_page.png
+2025-05-04 20:44:04,104 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 20:44:04,105 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 20:44:08,205 - INFO - Screenshot saved: screenshots/20250504_204408_add_plugins_page.png
+2025-05-04 20:44:08,206 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 20:44:08,206 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 20:44:13,670 - INFO - Screenshot saved: screenshots/20250504_204413_search_results.png
+2025-05-04 20:44:14,729 - INFO - Found Everest Forms in search results
+2025-05-04 20:44:14,731 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 20:44:14,732 - INFO - STEP 5: Install Everest Forms
+2025-05-04 20:44:14,958 - INFO - Clicked Install Now
+2025-05-04 20:44:33,086 - INFO - STEP 5 PASSED: Successfully installed Everest Forms
+2025-05-04 20:44:33,087 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 20:44:41,048 - INFO - Clicked Activate
+2025-05-04 20:44:46,049 - INFO - Verifying activation
+2025-05-04 20:44:57,203 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 20:44:57,203 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 20:45:03,606 - INFO - Screenshot saved: screenshots/20250504_204503_everest_forms_page.png
+2025-05-04 20:45:03,606 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 20:45:04,814 - INFO - Screenshot saved: screenshots/20250504_204504_custom_welcome_message.png
+2025-05-04 20:45:04,815 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 20:45:04,815 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 20:45:04,815 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 20:45:04,816 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 20:45:04,816 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 20:45:04,816 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 20:45:04,817 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 20:45:04,817 - INFO - Step 5: Installed Everest Forms
+2025-05-04 20:45:04,818 - INFO - Step 6: Activated Everest Forms
+2025-05-04 20:45:04,818 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 20:45:07,092 - INFO - Browser closed
+2025-05-04 20:45:07,096 - INFO - Test execution completed
+2025-05-04 20:50:07,247 - INFO - ====== WebDriver manager ======
+2025-05-04 20:50:07,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:50:08,134 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:50:08,284 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:50:09,379 - INFO - Starting WordPress automation test...
+2025-05-04 20:50:09,379 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:50:15,892 - INFO - Screenshot saved: screenshots/20250504_205015_login_page.png
+2025-05-04 20:50:15,892 - INFO - Successfully navigated to WordPress login page
+2025-05-04 20:50:15,892 - INFO - STEP 1.1: Input login credentials
+2025-05-04 20:50:24,196 - INFO - Screenshot saved: screenshots/20250504_205024_login_success.png
+2025-05-04 20:50:24,196 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 20:50:43,222 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 20:50:46,069 - INFO - Screenshot saved: screenshots/20250504_205045_plugins_page.png
+2025-05-04 20:50:46,069 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 20:50:46,070 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 20:50:50,208 - INFO - Screenshot saved: screenshots/20250504_205050_add_plugins_page.png
+2025-05-04 20:50:50,208 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 20:50:50,208 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 20:50:55,485 - INFO - Screenshot saved: screenshots/20250504_205055_search_results.png
+2025-05-04 20:50:56,522 - INFO - Found Everest Forms in search results
+2025-05-04 20:50:56,523 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 20:50:56,524 - INFO - STEP 5: Install Everest Forms
+2025-05-04 20:50:56,628 - INFO - Clicked Install Now
+2025-05-04 20:51:15,739 - INFO - STEP 5 PASSED: Successfully installed Everest Forms
+2025-05-04 20:51:15,740 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 20:51:23,488 - INFO - Clicked Activate
+2025-05-04 20:51:28,489 - INFO - Verifying activation
+2025-05-04 20:51:39,459 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 20:51:39,459 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 20:51:47,761 - INFO - Screenshot saved: screenshots/20250504_205147_everest_forms_page.png
+2025-05-04 20:51:47,761 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 20:51:48,905 - INFO - Screenshot saved: screenshots/20250504_205148_custom_welcome_message.png
+2025-05-04 20:51:48,905 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 20:51:48,905 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 20:51:48,905 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 20:51:48,906 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 20:51:48,906 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 20:51:48,906 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 20:51:48,906 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 20:51:48,907 - INFO - Step 5: Installed Everest Forms
+2025-05-04 20:51:48,907 - INFO - Step 6: Activated Everest Forms
+2025-05-04 20:51:48,907 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 20:51:51,099 - INFO - Browser closed
+2025-05-04 20:51:51,100 - INFO - Test execution completed
+2025-05-04 20:56:44,894 - INFO - ====== WebDriver manager ======
+2025-05-04 20:56:45,652 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:56:45,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:56:45,942 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:56:47,062 - INFO - Starting WordPress automation test...
+2025-05-04 20:56:47,062 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:56:53,600 - INFO - Screenshot saved: screenshots/20250504_205653_login_page.png
+2025-05-04 20:56:53,601 - INFO - Successfully navigated to WordPress login page
+2025-05-04 20:56:53,601 - INFO - STEP 1.1: Input login credentials
+2025-05-04 20:57:02,098 - INFO - Screenshot saved: screenshots/20250504_205701_login_success.png
+2025-05-04 20:57:02,098 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 20:57:22,794 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 20:57:25,591 - INFO - Screenshot saved: screenshots/20250504_205725_plugins_page.png
+2025-05-04 20:57:25,592 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 20:57:25,592 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 20:57:29,724 - INFO - Screenshot saved: screenshots/20250504_205729_add_plugins_page.png
+2025-05-04 20:57:29,725 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 20:57:29,725 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 20:57:35,249 - INFO - Screenshot saved: screenshots/20250504_205735_search_results.png
+2025-05-04 20:57:36,303 - INFO - Found Everest Forms in search results
+2025-05-04 20:57:36,305 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 20:57:36,306 - INFO - STEP 5: Install Everest Forms
+2025-05-04 20:57:36,517 - INFO - Clicked Install Now
+2025-05-04 20:57:53,440 - INFO - STEP 5 PASSED: Successfully installed Everest Forms
+2025-05-04 20:57:53,442 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 20:58:01,254 - INFO - Clicked Activate
+2025-05-04 20:58:06,255 - INFO - Verifying activation
+2025-05-04 20:58:17,482 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 20:58:17,482 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 20:58:25,806 - INFO - Screenshot saved: screenshots/20250504_205825_everest_forms_page.png
+2025-05-04 20:58:25,808 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 20:58:26,968 - INFO - Screenshot saved: screenshots/20250504_205826_custom_welcome_message.png
+2025-05-04 20:58:26,969 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 20:58:26,969 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 20:58:26,969 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 20:58:26,971 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 20:58:26,971 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 20:58:26,971 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 20:58:26,972 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 20:58:26,972 - INFO - Step 5: Installed Everest Forms
+2025-05-04 20:58:26,972 - INFO - Step 6: Activated Everest Forms
+2025-05-04 20:58:26,973 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 20:58:29,278 - INFO - Browser closed
+2025-05-04 20:58:29,279 - INFO - Test execution completed
+2025-05-04 20:59:23,170 - INFO - ====== WebDriver manager ======
+2025-05-04 20:59:24,029 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:59:24,177 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 20:59:24,327 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 20:59:25,412 - INFO - Starting WordPress automation test...
+2025-05-04 20:59:25,412 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 20:59:33,243 - INFO - Screenshot saved: screenshots/20250504_205933_login_page.png
+2025-05-04 20:59:33,244 - INFO - Successfully navigated to WordPress login page
+2025-05-04 20:59:33,244 - INFO - STEP 1.1: Input login credentials
+2025-05-04 20:59:42,839 - INFO - Screenshot saved: screenshots/20250504_205942_login_success.png
+2025-05-04 20:59:42,841 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 20:59:59,298 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 21:00:02,816 - INFO - Screenshot saved: screenshots/20250504_210002_plugins_page.png
+2025-05-04 21:00:02,818 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 21:00:02,818 - INFO - Everest Forms is already activated. Deactivating first to demonstrate full workflow.
+2025-05-04 21:00:02,861 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 21:00:07,588 - INFO - Screenshot saved: screenshots/20250504_210007_add_plugins_page.png
+2025-05-04 21:00:07,593 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 21:00:07,593 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 21:00:13,141 - INFO - Screenshot saved: screenshots/20250504_210013_search_results.png
+2025-05-04 21:00:14,745 - INFO - Found Everest Forms in search results
+2025-05-04 21:00:14,746 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 21:00:14,747 - INFO - STEP 5: Install Everest Forms
+2025-05-04 21:00:14,849 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 21:00:20,236 - INFO - Verifying activation
+2025-05-04 21:00:31,342 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 21:00:31,342 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 21:00:41,709 - INFO - Screenshot saved: screenshots/20250504_210041_everest_forms_page.png
+2025-05-04 21:00:41,709 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 21:00:42,883 - INFO - Screenshot saved: screenshots/20250504_210042_custom_welcome_message.png
+2025-05-04 21:00:42,883 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 21:00:42,884 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 21:00:42,884 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 21:00:42,885 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 21:00:42,885 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 21:00:42,885 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 21:00:42,886 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 21:00:42,886 - INFO - Step 5: Installed Everest Forms
+2025-05-04 21:00:42,886 - INFO - Step 6: Activated Everest Forms
+2025-05-04 21:00:42,887 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 21:00:45,151 - INFO - Browser closed
+2025-05-04 21:00:45,152 - INFO - Test execution completed
+2025-05-04 21:01:04,268 - INFO - ====== WebDriver manager ======
+2025-05-04 21:01:05,013 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 21:01:05,163 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 21:01:05,309 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 21:01:06,393 - INFO - Starting WordPress automation test...
+2025-05-04 21:01:06,393 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 21:01:14,277 - INFO - Screenshot saved: screenshots/20250504_210114_login_page.png
+2025-05-04 21:01:14,278 - INFO - Successfully navigated to WordPress login page
+2025-05-04 21:01:14,278 - INFO - STEP 1.1: Input login credentials
+2025-05-04 21:01:24,215 - INFO - Screenshot saved: screenshots/20250504_210124_login_success.png
+2025-05-04 21:01:24,215 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 21:01:40,403 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 21:01:43,846 - INFO - Screenshot saved: screenshots/20250504_210143_plugins_page.png
+2025-05-04 21:01:43,846 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 21:01:43,846 - INFO - Everest Forms is already activated. Deactivating first to demonstrate full workflow.
+2025-05-04 21:01:43,856 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 21:01:48,590 - INFO - Screenshot saved: screenshots/20250504_210148_add_plugins_page.png
+2025-05-04 21:01:48,591 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 21:01:48,591 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 21:01:53,862 - INFO - Screenshot saved: screenshots/20250504_210153_search_results.png
+2025-05-04 21:01:55,414 - INFO - Found Everest Forms in search results
+2025-05-04 21:01:55,415 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 21:01:55,415 - INFO - STEP 5: Install Everest Forms
+2025-05-04 21:01:55,448 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 21:02:00,897 - INFO - Verifying activation
+2025-05-04 21:02:11,923 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 21:02:11,924 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 21:02:18,318 - INFO - Screenshot saved: screenshots/20250504_210218_everest_forms_page.png
+2025-05-04 21:02:18,318 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 21:02:19,477 - INFO - Screenshot saved: screenshots/20250504_210219_custom_welcome_message.png
+2025-05-04 21:02:19,477 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 21:02:19,477 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 21:02:19,477 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 21:02:19,477 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 21:02:19,477 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 21:02:19,477 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 21:02:19,479 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 21:02:19,479 - INFO - Step 5: Installed Everest Forms
+2025-05-04 21:02:19,479 - INFO - Step 6: Activated Everest Forms
+2025-05-04 21:02:19,479 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 21:02:21,708 - INFO - Browser closed
+2025-05-04 21:02:21,708 - INFO - Test execution completed
+2025-05-04 21:02:42,844 - INFO - ====== WebDriver manager ======
+2025-05-04 21:02:43,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 21:02:43,700 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 21:02:43,857 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 21:02:44,953 - INFO - Starting WordPress automation test...
+2025-05-04 21:02:44,954 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 21:02:52,829 - INFO - Screenshot saved: screenshots/20250504_210252_login_page.png
+2025-05-04 21:02:52,831 - INFO - Successfully navigated to WordPress login page
+2025-05-04 21:02:52,831 - INFO - STEP 1.1: Input login credentials
+2025-05-04 21:03:03,095 - INFO - Screenshot saved: screenshots/20250504_210302_login_success.png
+2025-05-04 21:03:03,096 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 21:03:19,270 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 21:03:22,815 - INFO - Screenshot saved: screenshots/20250504_210322_plugins_page.png
+2025-05-04 21:03:22,815 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 21:03:22,819 - INFO - Everest Forms is already activated. Deactivating first to demonstrate full workflow.
+2025-05-04 21:03:22,842 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 21:03:27,626 - INFO - Screenshot saved: screenshots/20250504_210327_add_plugins_page.png
+2025-05-04 21:03:27,627 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 21:03:27,628 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 21:03:32,908 - INFO - Screenshot saved: screenshots/20250504_210332_search_results.png
+2025-05-04 21:03:33,975 - INFO - Found Everest Forms in search results
+2025-05-04 21:03:33,975 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 21:03:33,977 - INFO - STEP 5: Install Everest Forms
+2025-05-04 21:03:33,995 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 21:03:39,428 - INFO - Verifying activation
+2025-05-04 21:03:50,446 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 21:03:50,446 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 21:03:58,762 - INFO - Screenshot saved: screenshots/20250504_210358_everest_forms_page.png
+2025-05-04 21:03:58,764 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 21:03:59,910 - INFO - Screenshot saved: screenshots/20250504_210359_custom_welcome_message.png
+2025-05-04 21:03:59,911 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 21:03:59,911 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 21:03:59,912 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 21:03:59,912 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 21:03:59,913 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 21:03:59,914 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 21:03:59,915 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 21:03:59,915 - INFO - Step 5: Installed Everest Forms
+2025-05-04 21:03:59,916 - INFO - Step 6: Activated Everest Forms
+2025-05-04 21:03:59,916 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 21:04:02,129 - INFO - Browser closed
+2025-05-04 21:04:02,130 - INFO - Test execution completed
+2025-05-04 21:04:22,359 - INFO - ====== WebDriver manager ======
+2025-05-04 21:04:23,056 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 21:04:23,215 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-04 21:04:23,369 - INFO - Driver [C:\Users\Santosh\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-04 21:04:24,469 - INFO - Starting WordPress automation test...
+2025-05-04 21:04:24,470 - INFO - STEP 1: Navigate to WordPress login page
+2025-05-04 21:04:32,329 - INFO - Screenshot saved: screenshots/20250504_210432_login_page.png
+2025-05-04 21:04:32,329 - INFO - Successfully navigated to WordPress login page
+2025-05-04 21:04:32,330 - INFO - STEP 1.1: Input login credentials
+2025-05-04 21:04:42,024 - INFO - Screenshot saved: screenshots/20250504_210441_login_success.png
+2025-05-04 21:04:42,025 - INFO - STEP 1 PASSED: Logged in successfully
+2025-05-04 21:04:58,351 - INFO - STEP 2: Navigate to Plugins page
+2025-05-04 21:05:01,794 - INFO - Screenshot saved: screenshots/20250504_210501_plugins_page.png
+2025-05-04 21:05:01,794 - INFO - STEP 2 PASSED: Successfully navigated to Plugins page
+2025-05-04 21:05:01,794 - INFO - Everest Forms is already activated. Deactivating first to demonstrate full workflow.
+2025-05-04 21:05:01,804 - INFO - STEP 3: Navigate to Add New plugins
+2025-05-04 21:05:06,559 - INFO - Screenshot saved: screenshots/20250504_210506_add_plugins_page.png
+2025-05-04 21:05:06,559 - INFO - STEP 3 PASSED: Successfully navigated to Add New plugins page
+2025-05-04 21:05:06,559 - INFO - STEP 4: Search for 'Everest Forms'
+2025-05-04 21:05:11,857 - INFO - Screenshot saved: screenshots/20250504_210511_search_results.png
+2025-05-04 21:05:13,429 - INFO - Found Everest Forms in search results
+2025-05-04 21:05:13,429 - INFO - STEP 4 PASSED: Successfully searched for Everest Forms
+2025-05-04 21:05:13,431 - INFO - STEP 5: Install Everest Forms
+2025-05-04 21:05:13,469 - INFO - STEP 6: Activate Everest Forms
+2025-05-04 21:05:18,911 - INFO - Verifying activation
+2025-05-04 21:05:29,864 - INFO - STEP 6 PASSED: Successfully activated Everest Forms
+2025-05-04 21:05:29,864 - INFO - STEP 7: Create and Verify the 'Welcome to Everest Forms' message
+2025-05-04 21:05:36,205 - INFO - Screenshot saved: screenshots/20250504_210536_everest_forms_page.png
+2025-05-04 21:05:36,205 - INFO - Creating custom Welcome to Everest Forms message
+2025-05-04 21:05:37,321 - INFO - Screenshot saved: screenshots/20250504_210537_custom_welcome_message.png
+2025-05-04 21:05:37,321 - INFO - Successfully created Welcome to Everest Forms message
+2025-05-04 21:05:37,321 - INFO - STEP 7 PASSED: Successfully created and displayed 'Welcome to Everest Forms' message
+2025-05-04 21:05:37,322 - INFO - ALL STEPS COMPLETED SUCCESSFULLY!
+2025-05-04 21:05:37,322 - INFO - Step 1: Navigated to WordPress login page and logged in
+2025-05-04 21:05:37,322 - INFO - Step 2: Navigated to Plugins page
+2025-05-04 21:05:37,322 - INFO - Step 3: Navigated to Add New plugins page
+2025-05-04 21:05:37,322 - INFO - Step 4: Searched for 'Everest Forms'
+2025-05-04 21:05:37,322 - INFO - Step 5: Installed Everest Forms
+2025-05-04 21:05:37,322 - INFO - Step 6: Activated Everest Forms
+2025-05-04 21:05:37,322 - INFO - Step 7: Verified 'Welcome to Everest Forms' message
+2025-05-04 21:05:39,549 - INFO - Browser closed
+2025-05-04 21:05:39,550 - INFO - Test execution completed
